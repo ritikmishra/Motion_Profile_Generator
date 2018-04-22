@@ -1,0 +1,4 @@
+.chart-plot-background {
+    -fx-background-image: url("powerUpField.png");
+    -fx-background-size: cover;
+}
